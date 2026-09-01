@@ -113,8 +113,22 @@ Suspicious Process Activity
 
 ## 📸 Screenshots
 ### Failed Login Alert
+## 📸 Screenshots
 
-![Failed Login Alert](screenshots/screenshots/failed-login-alert.png)
+### Wazuh Dashboard
+![Wazuh Dashboard](screenshots/screenshots/Screenshot%202026-09-01%20203104.png.jpg)
+
+### Wazuh Security Events
+![Wazuh Security Events](screenshots/screenshots/Screenshot%202026-09-01%20203510.png)
+
+### SOC Alert Investigation
+![SOC Alert Investigation](screenshots/screenshots/Screenshot%202026-09-01%20203549.png)
+
+### Security Monitoring
+![Security Monitoring](screenshots/screenshots/Screenshot%202026-09-01%20204109.png)
+
+### Wazuh Alert Analysis
+![Wazuh Alert Analysis](screenshots/screenshots/Screenshot%202026-09-01%20205857.png)
 
 - Wazuh Dashboard
 - Connected Windows Agent
