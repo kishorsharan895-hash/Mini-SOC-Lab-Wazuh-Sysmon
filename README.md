@@ -112,8 +112,9 @@ Suspicious Process Activity
 ---
 
 ## 📸 Screenshots
+### Failed Login Alert
 
-Screenshots of the following will be added:
+![Failed Login Alert](screenshots/screenshots/failed-login-alert.png)
 
 - Wazuh Dashboard
 - Connected Windows Agent
